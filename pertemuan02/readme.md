@@ -26,11 +26,13 @@
 # Analisis Kebutuhan dari Sisi Administrator (Admin)
 
 1. **Pengelolaan Data:**
+
    - Admin harus bisa mengelola data pelamar, pekerjaan, wawancara, serta informasi terkait tim. Tabel-tabel dalam database harus terhubung dengan baik agar admin dapat melihat seluruh informasi yang relevan dari satu antarmuka.
    - Dibutuhkan sistem pencarian dan filter untuk mempermudah pencarian pelamar berdasarkan status pekerjaan, jadwal wawancara, atau berdasarkan profil pelamar.
    - Admin harus bisa mem-backup dan merestore data pelamar, tim, pekerjaan, dan wawancara untuk memastikan tidak ada data yang hilang.
 
 2. **Laporan:**
+
    - Admin harus dapat menghasilkan laporan terkait pelamar, wawancara, dan pekerjaan yang sedang dibuka atau sudah terisi.
    - Laporan juga harus mencakup informasi mengenai performa wawancara, jumlah pelamar yang mendaftar pada posisi tertentu, serta status wawancara pelamar.
 
@@ -38,5 +40,6 @@
    - Sistem harus fleksibel dan bisa diperbarui di masa mendatang. Misalnya, menambahkan fitur baru seperti integrasi dengan platform media sosial atau portal karir.
    - Administrator juga membutuhkan sistem monitoring untuk melacak masalah teknis, misalnya waktu loading yang lama atau kegagalan input data.
 
-
 # Kesimpulan
+
+Analisis kebutuhan menunjukkan bahwa aplikasi rekrutmen harus memenuhi kriteria fungsionalitas, antarmuka intuitif, kinerja cepat, dan keamanan data untuk memberikan pengalaman optimal bagi pelamar dan staf. Pelamar perlu akses mudah untuk melamar dan melihat informasi pekerjaan, sementara administrator memerlukan alat untuk mengelola data, menghasilkan laporan, dan memastikan fleksibilitas sistem untuk pengembangan di masa depan. Dengan memenuhi kebutuhan ini, aplikasi tidak hanya akan meningkatkan efisiensi proses rekrutmen, tetapi juga mendukung pertumbuhan organisasi secara keseluruhan.
