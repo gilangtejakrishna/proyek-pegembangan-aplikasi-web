@@ -99,7 +99,7 @@ CREATE TABLE pelamar (
 
 ## Form Input
 
-<img src="./images/input-form.png" alt="input-form" width="400" />
+<img src="./images/input-form.png" alt="input-form" height="400" />
 
 ## Gambar Output
 
