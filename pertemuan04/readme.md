@@ -169,7 +169,8 @@ class CreatePelamarTable extends Migration
             $table->string('email')->unique();
             $table->enum('jenis_kelamin', ['L', 'P']);
             $table->string('no_tlp', 20)->nullable();
-            $table->foreignId('id_pekerjaan')->nullable()->constrained('pekerjaan')->onDelete('set null');
+            $table->unsignedBigInteger('id_pekerjaan')->nullable(); // foreign key ke id_pekerjaan di tabel pekerjaan
+            $table->foreign('id_pekerjaan')->references('id_pekerjaan')->on('pekerjaan')->onDelete('set null');
             $table->string('lulusan');
             $table->string('berkas'); // file berkas PDF
             $table->enum('status', ['pending', 'diterima', 'ditolak'])->default('pending');
