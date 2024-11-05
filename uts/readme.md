@@ -44,5 +44,10 @@ Ada 3 table yaitu tabel admin, pelamar, dan pekerjaan.
 ## Upaya Serius
 
 - Membeli domain
+Untuk memberikan identitas dan kredibilitas pada aplikasi ini kita akan membeli domain sehingga kita dapat mengamankan nama unik aplikasi dan menghindari risiko pencurian merek atau penggunaan domain oleh pihak lain.
 - Membeli server
+Untuk mendukung operasional harian dan memastikan layanan tetap lancar kita akan membeli server sehingga memudahkan dalam mengelola server secara jarak jauh dan memanfaatkan sumber daya secara efisien.
 - Aplikasi CRUD sudah jadi
+Dengan aplikasi CRUD yang sudah selesai dan berhasil diuji, kami memiliki fondasi yang kokoh untuk mengelola data secara dinamis.
+- Pencadangan Data
+Untuk menghindari kehilangan data jika terjadi kegagalan sistem kita akan mencadangkan datayang disimpan di lokasi yang berbeda untuk menghindari kehilangan data total.
