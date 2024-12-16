@@ -1,9 +1,13 @@
-# Progres Report Pertemuan 11
+# Progres Report Pertemuan 12
 
 ## Link Aplikasi Web
 
 [hiringapps](https://github.com/gilangtejakrishna/hiringapps)
 
+## Link Laporan
+
+[laporan.pdf](./laporan.pdf)
+
 ## Progress
 
-- membeli vps biznet gio
+- membuat laporan
